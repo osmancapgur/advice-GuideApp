@@ -1,16 +1,6 @@
-# tavsiye_allapp
+# Get Some Advice With This App
+This application gives you motivational, movie and TV series related advice. Each time you click on a recommendation, the background and content change depending on the recommendation you click on.
+<br\>
+# Video Of The Application I Developed
+https://user-images.githubusercontent.com/73967761/169715391-9aeb30cf-cbb3-4f27-a640-6788b3f36726.mp4
 
-by Ali Osman ÇAPĞUR
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
